@@ -1,5 +1,12 @@
 # @nextui-org/react
 
+## 2.3.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @nextui-org/accordion@2.0.32
+
 ## 2.3.5
 
 ### Patch Changes
